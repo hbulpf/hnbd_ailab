@@ -9,7 +9,7 @@
 1. hnbd [TensorFlow 系列课程](https://github.com/hbulpf/TensorFlow-Course)
 
 ### 推荐系统
-1. [推荐系统必读论文 : https://github.com/hbulpf/RSPapers](https://github.com/hbulpf/RSPapers)
+1. hnbd [推荐系统必读论文 : https://github.com/hbulpf/RSPapers](https://github.com/hbulpf/RSPapers)
 2. [hnbd 营养大数据 推荐系统调研](http://git.quietalk.cn/hnbd/data/hnbd_recomment_system)
 
 ## 数据集资源
