@@ -9,7 +9,8 @@
 
 ### 推荐系统
 1. [推荐系统必读论文 : https://github.com/hbulpf/RSPapers](https://github.com/hbulpf/RSPapers)
-2. []
+2. [hnbd 营养大数据 推荐系统调研](http://git.quietalk.cn/hnbd/data/hnbd_recomment_system)
+
 ## 数据集资源
 1. [kaggle 数据集 : https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
 2. [天池数据竞赛数据集 : https://tianchi.aliyun.com/datalab/index.htm?spm=5176.100065.5610771.15.31fe5eddQKCDBC](https://tianchi.aliyun.com/datalab/index.htm?spm=5176.100065.5610771.15.31fe5eddQKCDBC)
