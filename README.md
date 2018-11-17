@@ -2,10 +2,11 @@
 
 ## 机器学习
 ### 基础模型
-1. [机器学习资料 : https://github.com/hbulpf/MLBooks](https://github.com/hbulpf/MLBooks) ，主要包含机器学习 、数据挖掘 、深度学习、NLP 、云计算、统计学概率论相关书籍
+1. hnbd [机器学习资料 : https://github.com/hbulpf/MLBooks](https://github.com/hbulpf/MLBooks) ，主要包含机器学习 、数据挖掘 、深度学习、NLP 、云计算、统计学概率论相关书籍
 
 ### 深度学习
 1. [TensorFlow 系列实验 : https://cloud.tencent.com/developer/labs/series/10000O](https://cloud.tencent.com/developer/labs/series/10000)
+1. hnbd [TensorFlow 系列课程](https://github.com/hbulpf/TensorFlow-Course)
 
 ### 推荐系统
 1. [推荐系统必读论文 : https://github.com/hbulpf/RSPapers](https://github.com/hbulpf/RSPapers)
