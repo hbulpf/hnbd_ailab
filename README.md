@@ -17,3 +17,7 @@
 
 ## 竞赛
 1. 天池竞赛 : [https://tianchi.aliyun.com/competition/gameList.htm?spm=5176.100073.0.0.52026fc1ZB4XK2](https://tianchi.aliyun.com/competition/gameList.htm?spm=5176.100073.0.0.52026fc1ZB4XK2)
+
+------------
+@  [营养大数据 数据科学组](http://git.quietalk.cn/hnbd/data)      
+[@鹏飞](http://git.hnbdata.cn/lipengfei)
