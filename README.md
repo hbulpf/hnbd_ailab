@@ -19,6 +19,17 @@
 ## 竞赛
 1. 天池竞赛 : [https://tianchi.aliyun.com/competition/gameList.htm?spm=5176.100073.0.0.52026fc1ZB4XK2](https://tianchi.aliyun.com/competition/gameList.htm?spm=5176.100073.0.0.52026fc1ZB4XK2)
 
+## 相关课程
+1. 百度网盘账号
+2. [天善智能](https://www.hellobi.com/) : [https://www.hellobi.com](https://www.hellobi.com)
+> 账号: 15521327491  密码: lipengfei
+3. [小象学院](http://www.chinahadoop.cn/) : [http://www.chinahadoop.cn/](http://www.chinahadoop.cn/)
+4. 吴恩达机器学习视频
+
+## 优秀公众号推荐
+
+# Python 基础相关
+1. [Python 学习笔记](./python.md)
 ------------
 @  [营养大数据 数据科学组](http://git.quietalk.cn/hnbd/data)      
 [@鹏飞](http://git.hnbdata.cn/lipengfei)
