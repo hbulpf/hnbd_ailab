@@ -28,8 +28,17 @@
 
 ## 优秀公众号推荐
 
-# Python 基础相关
+# Python 相关
+## Python 学习
 1. [Python 学习笔记](./python.md)
+
+## Python 环境
+1. 在线 Pyhon2.7环境
+访问 [http://ml2.hnbdata.cn:8888](http://ml2.hnbdata.cn:8888) , 输入密码 `123456` 
+2. 在线 Pyhon3.5环境
+访问 [http://ml3.hnbdata.cn:8888](http://ml3.hnbdata.cn:8888) , 输入密码 `123456` 
+
+
 ------------
 @  [营养大数据 数据科学组](http://git.quietalk.cn/hnbd/data)      
 [@鹏飞](http://git.hnbdata.cn/lipengfei)
