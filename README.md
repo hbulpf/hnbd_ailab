@@ -16,8 +16,31 @@
 1. [kaggle 数据集 : https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
 2. [天池数据竞赛数据集 : https://tianchi.aliyun.com/datalab/index.htm?spm=5176.100065.5610771.15.31fe5eddQKCDBC](https://tianchi.aliyun.com/datalab/index.htm?spm=5176.100065.5610771.15.31fe5eddQKCDBC)
 
+## 课题
+1. [课题序列](./subjects.md)
+
 ## 竞赛
 1. 天池竞赛 : [https://tianchi.aliyun.com/competition/gameList.htm?spm=5176.100073.0.0.52026fc1ZB4XK2](https://tianchi.aliyun.com/competition/gameList.htm?spm=5176.100073.0.0.52026fc1ZB4XK2)
+
+## 相关课程
+1. 百度网盘账号
+2. [天善智能](https://www.hellobi.com/) : [https://www.hellobi.com](https://www.hellobi.com)
+> 账号: 15521327491  密码: lipengfei
+3. [小象学院](http://www.chinahadoop.cn/) : [http://www.chinahadoop.cn/](http://www.chinahadoop.cn/)
+4. 吴恩达机器学习视频
+
+## 优秀公众号推荐
+
+# Python 相关
+## Python 学习
+1. [Python 学习笔记](./python.md)
+
+## Python 环境
+1. 在线 Pyhon2.7环境
+访问 [http://ml2.hnbdata.cn:8888](http://ml2.hnbdata.cn:8888) , 输入密码 `123456` 
+2. 在线 Pyhon3.5环境
+访问 [http://ml3.hnbdata.cn:8888](http://ml3.hnbdata.cn:8888) , 输入密码 `123456` 
+
 
 ------------
 @  [营养大数据 数据科学组](http://git.quietalk.cn/hnbd/data)      
