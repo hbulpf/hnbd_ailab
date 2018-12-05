@@ -15,3 +15,8 @@
  
 1. 面向视觉识别的卷积神经网络：
 链接: https://pan.baidu.com/s/18uIJ6DvhvxEU4H5Wim5fXA 密码: 9syk
+
+
+------------
+@  [营养大数据 数据科学组](http://git.quietalk.cn/hnbd/data)      
+[@鹏飞](http://git.hnbdata.cn/lipengfei)
