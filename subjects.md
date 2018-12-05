@@ -2,7 +2,7 @@
 ## 基本模型
 1. 线性模型
     - [线性回归分析](./ml/LinearRegression.md)
-    - 逻辑回归分析
+    - [逻辑回归分析](./ml/LogisticRegression.md)
     - *Kaggle实践：商业活动达成预测*
 2. 决策树
     - 决策树基础
