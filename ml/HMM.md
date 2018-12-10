@@ -17,13 +17,16 @@
 <img src="https://latex.codecogs.com/gif.latex?=\sum_{H}^{&space;}P(O,H)" title="=\sum_{H}^{ }P(O,H)" /><br>
 <img src="https://latex.codecogs.com/gif.latex?=\sum_{H}^{&space;}(P(O|H)P(H)))" title="=\sum_{H}^{ }(P(O|H)P(H)))" /><br>
 <img src="https://latex.codecogs.com/gif.latex?=\sum_{H}^{&space;}[(b_{h1}(o_{1})b_{h2}(o_{2})...b_{ht}(o_{t}))(\pi&space;_{h1}a_{h1h2}...a_{ht-1}a_{ht})]" title="=\sum_{H}^{ }[(b_{h1}(o_{1})b_{h2}(o_{2})...b_{ht}(o_{t}))(\pi _{h1}a_{h1h2}...a_{ht-1}a_{ht})]" /><br>
-H代表所有隐藏序列的集合。
-### 2.前向求解
+H代表所有隐藏序列的集合。<br>
+复杂度非常高一般不使用。
+### 2.前向算法
 通俗来讲就是从单个观测状态{o1}的出现概率开始逐步推导，到{o1,o2}，直到{o1,o2,...ot}。<br>
 首先将当前隐藏状态为qi时序列为{o1,o2,...ot}称作<img src="https://latex.codecogs.com/gif.latex?a_{t}(i)" title="a_{t}(i)" />，因此<img src="https://latex.codecogs.com/gif.latex?a_{1}(i)=\pi_{i}b_{i}(o_{1})" title="a_{1}(i)=\pi_{i}b_{i}(o_{1})" /><br>
-因此<img src="https://latex.codecogs.com/gif.latex?a_{2}(i)=&space;[\sum_{j=1}&space;^{N}a_{1}(j)q_{ji}]b_{i}(2)" title="a_{2}(i)= [\sum_{j=1} ^{N}a_{1}(j)q_{ji}]b_{i}(o_{2})" /><br>
+因此<img src="https://latex.codecogs.com/gif.latex?a_{2}(i)=&space;[\sum_{j=1}&space;^{N}a_{1}(j)q_{ji}]b_{i}(o_{2})" title="a_{2}(i)= [\sum_{j=1} ^{N}a_{1}(j)q_{ji}]b_{i}(o_{2})" /><br>
 得出<img src="https://latex.codecogs.com/gif.latex?a_{t}(i)=&space;[\sum_{j=1}&space;^{N}a_{t-1}(j)q_{ji}]b_{i}(o_{t})" title="a_{t}(i)= [\sum_{j=1} ^{N}a_{t-1}(j)q_{ji}]b_{i}(o_{t})" /><br>
-从而能够逐步推算P(O)。
+从而能够逐步推算P(O)。相较于暴力求解其每次计算都基于上一次的计算，有一种动态规划的思路。
+### 3.后向算法
+基本思路和前向算法相似，这里不放公式了。
 
 ## 与其他方法对比
 
