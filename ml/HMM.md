@@ -10,7 +10,20 @@
 在基于马尔科夫链模型的基础上，将原本的可以直接观察到的状态作为隐藏状态q，增加能够直接观测到的状态作为观测状态v。每个隐藏状态之间能够互相转换，其转换概率构成状态转移矩阵A。每个隐藏状态能够生成观测状态，其生成概率构成观测概念矩阵B。这两个矩阵和初始状态概率向量π构成隐马尔可夫模型λ={A,B,π}。
 
 ## 基本方法
-三种方法我还在看。
+以下讨论最基本的问题，求特定序列O{o1,o2,...,ot}的出现概率
+### 1.暴力求解
+直接针对特定序列O{o1,o2,...,ot}求出现概率。<br>
+<img src="https://latex.codecogs.com/gif.latex?P(O)" title="P(O)" /><br>
+<img src="https://latex.codecogs.com/gif.latex?=\sum_{H}^{&space;}P(O,H)" title="=\sum_{H}^{ }P(O,H)" /><br>
+<img src="https://latex.codecogs.com/gif.latex?=\sum_{H}^{&space;}(P(O|H)P(H)))" title="=\sum_{H}^{ }(P(O|H)P(H)))" /><br>
+<img src="https://latex.codecogs.com/gif.latex?=\sum_{H}^{&space;}[(b_{h1}(o_{1})b_{h2}(o_{2})...b_{ht}(o_{t}))(\pi&space;_{h1}a_{h1h2}...a_{ht-1}a_{ht})]" title="=\sum_{H}^{ }[(b_{h1}(o_{1})b_{h2}(o_{2})...b_{ht}(o_{t}))(\pi _{h1}a_{h1h2}...a_{ht-1}a_{ht})]" /><br>
+H代表所有隐藏序列的集合。
+### 2.前向求解
+通俗来讲就是从单个观测状态{o1}的出现概率开始逐步推导，到{o1,o2}，直到{o1,o2,...ot}。<br>
+首先将当前隐藏状态为qi时序列为{o1,o2,...ot}称作<img src="https://latex.codecogs.com/gif.latex?a_{t}(i)" title="a_{t}(i)" />，因此<img src="https://latex.codecogs.com/gif.latex?a_{1}(i)=\pi_{i}b_{i}(o_{1})" title="a_{1}(i)=\pi_{i}b_{i}(o_{1})" /><br>
+因此<img src="https://latex.codecogs.com/gif.latex?a_{2}(i)=&space;[\sum_{j=1}&space;^{N}a_{1}(j)q_{ji}]b_{i}(2)" title="a_{2}(i)= [\sum_{j=1} ^{N}a_{1}(j)q_{ji}]b_{i}(o_{2})" /><br>
+得出<img src="https://latex.codecogs.com/gif.latex?a_{t}(i)=&space;[\sum_{j=1}&space;^{N}a_{t-1}(j)q_{ji}]b_{i}(o_{t})" title="a_{t}(i)= [\sum_{j=1} ^{N}a_{t-1}(j)q_{ji}]b_{i}(o_{t})" /><br>
+从而能够逐步推算P(O)。
 
 ## 与其他方法对比
 
