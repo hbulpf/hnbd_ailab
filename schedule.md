@@ -1,48 +1,48 @@
 # 基础课题
 ## 基本模型
-1. 线性模型
+1. 线性模型 【@lizhuoyun  第1周（done）】【@chenqiren 第1周（done）】
     - [线性回归分析](./ml/LinearRegression.md)
     - [逻辑回归分析](./ml/LogisticRegression.md)
     - *Kaggle实践：商业活动达成预测*
-2. 决策树
+2. 决策树 【@lizhuoyun 第1周（done）】【 @chenqiren 第2周（doing）】
     - 决策树基础
     - 决策树构建
     - *Kaggle实践：员工荔枝预测*
-3. 朴素贝叶斯
+3. 朴素贝叶斯 【@lizhuoyun 第2周（done）】【 @chenqiren 第3周（to do）】
     - 贝叶斯理论
     - 贝叶斯文本分析
     - *实践：酒店评论舆情分析*
-4. 支持向量机
+4. 支持向量机 【@lizhuoyun 第2周（done）】【 @chenqiren 第3周（to do）】
     - 线性可分析向量机
     - 分线性可分及核函数
     - *Kaggle实践：犯罪预测分析*
-5. 集成学习
+5. 集成学习 【@lizhuoyun 第3周（to do）】
     - 随机森林
     - GBDT
     - XGBOOST
     - *Kaggle实践：泰坦生存预测*
-6. 聚类分析
+6. 聚类分析 【@lizhuoyun 第2周（done）】
     - k-means聚类
     - 层次聚类
     - DBSCAN聚类
     - 局部密度聚类
     - *science文章中算法* / *集体智慧编程第3章算法*
-7. EM算法
+7. EM算法 【@lizhuoyun 第3周（to do）】
     - EM算法理论
     - *实践EM算法*
-8. 主成分分析
+8. 主成分分析 【@lizhuoyun 第2周（done）】
     - 主成分分析理论
     - *实践：利用主成分分析进行图像压缩*
-9. 隐马尔科夫模型
-    - [隐马尔科夫理论](./ml/HMM.md)
+9. 隐马尔科夫模型 【@huangbowei 第2周（done）】
+    - 隐马尔科夫理论
     - *利用HMM实现中文分词*
-10. 神经网络
-    - 神经网络基础 , 反向传播算法
-    - 卷积神经网络
+10. 神经网络【@huangbowei 第3周（to do）】
+    - 神经网络基础 , 反向传播算法 【@lizhuoyun 第2周（done）】【@huangbowei 第2周（done）】【@chenqiren 第2周（done）】
+    - 卷积神经网络 【@chenqiren 第2周（done）】
     - *实践：利用卷积神经网络实现手写数字识别*
     - 循环神经网络
     - *实践：利用Bilstm+crf实现实体识别*
-    - 自编码器
+    - 自编码器 
     - *实践：利用自编码器实现异常点检测*
 
 ## 项目实战
@@ -127,5 +127,5 @@
     - Python建立聚类模型
 
 ------------
-@  [营养大数据 数据科学组](http://git.quietalk.cn/hnbd/data)      
+@  [营养大数据 数据科学组](http://git.hnbdata.cn/hnbd/data)      
 [@鹏飞](http://git.hnbdata.cn/lipengfei)
