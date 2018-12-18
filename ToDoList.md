@@ -16,6 +16,8 @@
 1. 面向视觉识别的卷积神经网络：
 链接: https://pan.baidu.com/s/18uIJ6DvhvxEU4H5Wim5fXA 密码: 9syk
 
+1. 完整的关房价预测商业案例
+链接：https://pan.baidu.com/s/1b_ZOxmKJ0rbih0p-wKh1sA  提取码：k1pw 
 
 ------------
 @  [营养大数据 数据科学组](http://git.quietalk.cn/hnbd/data)      
