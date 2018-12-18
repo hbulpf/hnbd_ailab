@@ -126,6 +126,53 @@
     - 聚类模型评判
     - Python建立聚类模型
 
+## 算法闭环
+1. 数据采集  
+    1.1 爬虫爬数据: Scrapy , phatom.js  
+    2.1 数据业务: Ariflow-py , cron  
+2. 数据仓库(存储)  
+    2.1 数据清洗: ETL(Extract Transform Load), Pandas , NumPy , Map-Reduce  
+    2.2 数据库:  
+     - noSQL/Redis/Mongo --不用
+     - MySQL(上亿)/Postgres(十亿,百亿)  (最中意)
+     - Hive(十亿,百亿 快)
+     - OLAP -- HBASE (用于统计，不用于存储)
+     - Spark
+3. 数据集市/数据挖掘/数据标注: 如何生成需要的精细的、优质的数据
+    3.1 数据挖掘
+    - 数据可视化
+    - 数据统计
+    - 特征工程
+    - outlier（去除异常点）
+    3.2 数据标注
+    - 自动化标注
+    - 标注平台
+    - 聚类等自动化
+4. 评测集和训练集的准备  
+    4.1 数据集市库 : Train Set(教科书) , Validata Set(在线测验)  , Test Set (
+    最终测验)   
+5. 模型的设计/Loss函数的设计/训练方法的设计【机器学习】
+    - Gradient Decent(梯度下降)
+    - E2E
+    - 分步训练/分段训练
+    - 分布式训练:单机多卡，一台最多安8块GPU;
+    - 实惠用AMD , Nvidia 支持 Cuda(类C++，数据放到GPU中运算，速度是CPU的10~60倍) ,OpenCL
+    - Tensorflow/Keras(简单好用)/Caffe/MXNet/PyTorch
+    - 1080Ti(单机用) , Tesla(服务器用)
+    - MPI
+6. 模型的验证与检测
+    - PR/ROC/F-Score/mAP (用于分类问题)
+        - Precison = 1-错误率
+        - Recall =1-漏报率
+    - 模型的筛选
+7. 模型的集成/优化
+    - SDK的开发 
+    - 模型压缩--minic开发
+8. 构建应用
+    - golang/c++等
+
+
+
 ------------
 @  [营养大数据 数据科学组](http://git.quietalk.cn/hnbd/data)      
 [@鹏飞](http://git.hnbdata.cn/lipengfei)
