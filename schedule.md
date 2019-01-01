@@ -34,7 +34,7 @@
     - 主成分分析理论
     - *实践：利用主成分分析进行图像压缩*
 9. 隐马尔科夫模型 【@huangbowei 第2周（done）】
-    - 隐马尔科夫理论
+    - [隐马尔科夫理论](./ml/HMM.md)
     - *利用HMM实现中文分词*
 10. 神经网络【@huangbowei 第3周（to do）】
     - 神经网络基础 , 反向传播算法 【@lizhuoyun 第2周（done）】【@huangbowei 第2周（done）】【@chenqiren 第2周（done）】
