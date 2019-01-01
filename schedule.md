@@ -1,6 +1,6 @@
 # 基础课题
 ## 基本模型
-1. 线性模型 【@lizhuoyun  第1周（done）】【@chenqiren 第1周（done）】
+1. 线性模型 【@lizhuoyun  第1周（done）】【@chenqiren 第1周（done）】【@huangbowei 第4周（done）】
     - [线性回归分析](./ml/LinearRegression.md)
     - [逻辑回归分析](./ml/LogisticRegression.md)
     - *Kaggle实践：商业活动达成预测*
@@ -8,11 +8,11 @@
     - 决策树基础
     - 决策树构建
     - *Kaggle实践：员工荔枝预测*
-3. 朴素贝叶斯 【@lizhuoyun 第2周（done）】【 @chenqiren 第3周（to do）】
+3. 朴素贝叶斯 【@lizhuoyun 第2周（done）】【 @chenqiren 第3周（to do）】【@huangbowei 第4周（done）】
     - 贝叶斯理论
     - 贝叶斯文本分析
     - *实践：酒店评论舆情分析*
-4. 支持向量机 【@lizhuoyun 第2周（done）】【 @chenqiren 第3周（to do）】
+4. 支持向量机 【@lizhuoyun 第2周（done）】【 @chenqiren 第3周（to do）】【@huangbowei 第4周（done）】
     - 线性可分析向量机
     - 分线性可分及核函数
     - *Kaggle实践：犯罪预测分析*
