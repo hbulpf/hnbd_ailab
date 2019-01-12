@@ -1,6 +1,6 @@
 # 基础课题
 ## 基本模型
-1. 线性模型 【@lizhuoyun  第1周（done）】【@chenqiren 第1周（done）】
+1. 线性模型 【@lizhuoyun  第1周（done）】【@chenqiren 第1周（done）】【@huangbowei 第4周（done）】
     - [线性回归分析](./ml/LinearRegression.md)
     - [逻辑回归分析](./ml/LogisticRegression.md)
     - *Kaggle实践：商业活动达成预测*
@@ -8,11 +8,11 @@
     - 决策树基础
     - 决策树构建
     - *Kaggle实践：员工荔枝预测*
-3. 朴素贝叶斯 【@lizhuoyun 第2周（done）】【 @chenqiren 第3周（to do）】
+3. 朴素贝叶斯 【@lizhuoyun 第2周（done）】【 @chenqiren 第3周（to do）】【@huangbowei 第4周（done）】
     - 贝叶斯理论
     - 贝叶斯文本分析
     - *实践：酒店评论舆情分析*
-4. 支持向量机 【@lizhuoyun 第2周（done）】【 @chenqiren 第3周（to do）】
+4. 支持向量机 【@lizhuoyun 第2周（done）】【 @chenqiren 第3周（to do）】【@huangbowei 第4周（done）】
     - 线性可分析向量机
     - 分线性可分及核函数
     - *Kaggle实践：犯罪预测分析*
@@ -34,7 +34,7 @@
     - 主成分分析理论
     - *实践：利用主成分分析进行图像压缩*
 9. 隐马尔科夫模型 【@huangbowei 第2周（done）】
-    - 隐马尔科夫理论
+    - [隐马尔科夫理论](./ml/HMM.md)
     - *利用HMM实现中文分词*
 10. 神经网络【@huangbowei 第3周（to do）】
     - 神经网络基础 , 反向传播算法 【@lizhuoyun 第2周（done）】【@huangbowei 第2周（done）】【@chenqiren 第2周（done）】
@@ -73,7 +73,7 @@
     - 分析结果
     - 特征共恒与超参迭代优化模型
     - 关键因子分析
-3. 猫狗大战
+3. 猫狗分类
     - 数据与问题学习
     - 了解**CNN卷积神经神经网络**
     - 基本的卷积神经网络结构
