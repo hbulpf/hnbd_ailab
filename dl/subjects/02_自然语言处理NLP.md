@@ -40,7 +40,7 @@
 1. lda2vec https://arxiv.org/abs/1605.02019
 1. illustration2vec http://dl.acm.org/citation.cfm?id=2820907
 1. tag2vechttp://ktsaurabh.weebly.com/uploads/3/1/7/8/31783965/distributed_representations_for_contentbased_and_personalized_tag_recommendation.pdf
-1. category2vec http://www.anlp.jp/proceedings/annual_meeting/2015/pdfdir/C43.pdf]
+1. category2vec http://www.anlp.jp/proceedings/annual_meeting/2015/pdfdir/C43.pdf ]
 1. topic2vec http://arxiv.org/abs/1506.08422
 1. image2vec http://arxiv.org/abs/1507.08818
 1. app2vec http://paul.rutgers.edu/qma/research/maapp2vec.pdf
@@ -84,7 +84,7 @@
 
 ### Machine Translation
 1. Neural Machine Translation by jointly learning to align and translate http://arxiv.org/pdf/1409.0473v6.pdf
-1. Sequence to Sequence Learning with Neural Networks http://arxiv.org/pdf/1409.3215v3.pdf PPT: [nips presentationhttp://research.microsoft.com/apps/video/?id=239083 seq2seq tutorialhttp://tensorflow.org/tutorials/seq2seq/index.html
+1. Sequence to Sequence Learning with Neural Networks http://arxiv.org/pdf/1409.3215v3.pdf PPT:   [ nips presentationhttp://research.microsoft.com/apps/video/?id=239083 seq2seq tutorialhttp://tensorflow.org/tutorials/seq2seq/index.html
 1. Cross-lingual Pseudo-Projected Expectation Regularization for Weakly Supervised Learninghttp://arxiv.org/pdf/1310.1597v1.pdf
 1. Generating Chinese Named Entity Data from a Parallel Corpus http://www.mt-archive.info/IJCNLP-2011-Fu.pdf
 1. IXA pipeline: Efficient and Ready to Use Multilingual NLP tools http://www.lrec-conf.org/proceedings/lrec2014/pdf/775_Paper.pdf1. 
@@ -357,7 +357,7 @@
 1. SnowNLPhttps://github.com/isnowfy/snownlp Python Python library for processing Chinese text
 1. YaYaNLPhttps://github.com/Tony-Wang/YaYaNLP 纯python编写的中文自然语言处理包，取名于“牙牙学语”
 1. DeepNLPhttps://github.com/rockingdingo/deepnlp Deep Learning NLP Pipeline implemented on Tensorflow with pretrained Chinese models.
-1. chinese_nlphttps://github.com/taozhijiang/chinese_nlp] C++ & Python Chinese Natural Language Processing tools and examples
+1. chinese_nlphttps://github.com/taozhijiang/chinese_nlp ] C++ & Python Chinese Natural Language Processing tools and examples
 1. Jieba 结巴中文分词https://github.com/fxsjy/jieba 做最好的 Python 中文分词组件
 1. kcws 深度学习中文分词https://github.com/koth/kcws BiLSTM+CRF与IDCNN+CRF
 1. Genius 中文分词https://github.com/duanhongyi/genius Genius是一个开源的python中文分词组件，采用 CRFConditional Random Field条件随机场算法。

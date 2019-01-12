@@ -59,7 +59,7 @@
 1. Improving user profile with personality traits predicted from social media content R Gao, B Hao, S Bai, L Li, A Li, T Zhu 2013 https://dl.acm.org/citation.cfm?id=2507219
 
 # 视频教程
-1. 电商大数据应用之用户画像, 慕课网 [http://www.imooc.com/learn/460]
+1. 电商大数据应用之用户画像, 慕课网   [ http://www.imooc.com/learn/460 ]
 1. 专访阿里交互数据师：如何通过数据挖掘用户画像 http://meia.me/course/169353
 1. 腾讯高级产品经理：如何做好用户画像、用户研究、竞品分析？ http://v.youku.com/v_show/id_XMTU0ODU3NTkzMg==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2\
 1. 用户画像、性格分析与聊天机器人 by 微软亚洲研究院研究员 谢幸 http://v.youku.com/v_show/id_XMjY1OTkzMzYzNg==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2\

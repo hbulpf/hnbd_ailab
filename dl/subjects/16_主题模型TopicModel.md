@@ -27,7 +27,7 @@ LDA-math-MCMC 和 Gibbs Sampling 简介：rickjin大神对马尔科夫链蒙特�
 早期文本模型的简介 https://zhuanlan.zhihu.com/p/28777266
 Gensim简介、LDA编程实现、LDA主题提取效果图展 示https://zhuanlan.zhihu.com/p/28830480
 图模型学习 http://blog.csdn.net/pipisorry/article/category/6241251
-Gaussian LDA: Gaussian LDA简介, 介绍主题模型和词向量结合的一些工作， 比较有意思，建议看一下 [http://blog.csdn.net/u011414416/article/details/51188483]
+Gaussian LDA: Gaussian LDA简介, 介绍主题模型和词向量结合的一些工作， 比较有意思，建议看一下   [ http://blog.csdn.net/u011414416/article/details/51188483 ]
 
 # 进阶论文
 实践以及一些变形方法
