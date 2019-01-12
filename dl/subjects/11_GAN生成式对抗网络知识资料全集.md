@@ -101,5 +101,4 @@
 1. 生成混合模型（Generative Mixture of Networks）2017[https://arxiv.org/pdf/1702.03307.pdf]
 1. 记忆生成时空模型（Generative Temporal Models with Memory）2017[https://arxiv.org/pdf/1702.04649.pdf]
 1. .止GAN暴力：生成性非对抗模型（Stopping GAN Violence: Generative Unadversarial Networks）2017[https://arxiv.org/pdf/1703.02528.pdf]
-1. 贝叶斯GANs:贝叶斯与GAN结合（Bayesian GAN)
-1.        原文链接：https://arxiv.org/abs/1705.09558
+1. 贝叶斯GANs:贝叶斯与GAN结合（Bayesian GAN)[https://arxiv.org/abs/1705.09558]
