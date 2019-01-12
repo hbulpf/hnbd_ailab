@@ -54,7 +54,6 @@
 1. 对抗实例的解释和利用（Explaining and Harnessing Adversarial Examples）2014[https://arxiv.org/pdf/1412.6572.pdf]
 1. 基于深度生成模型的半监督学习（ Semi-Supervised Learning with Deep Generative Models ）2014[https://arxiv.org/pdf/1406.5298v2.pdf]
 1. 条件生成对抗网络（Conditional Generative Adversarial Nets）2014[https://arxiv.org/pdf/1411.1784v1.pdf]
-
 ### 2015
 1. 基于深度卷积生成对抗网络的无监督学习（Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGANs)）2015[https://arxiv.org/pdf/1511.06434v2.pdf]
 1. 基于拉普拉斯金字塔生成式对抗网络的深度图像生成模型（Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks）2015[http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-5. laplacian-pyramid-of-adversarial-networks.pdf]
@@ -64,7 +63,6 @@
 1. 对抗自编码（Adversarial Autoencoders）2015[https://arxiv.org/pdf/1511.05644.pdf]
 1. 基于像素卷积神经网络的条件生成图片（Conditional Image Generation with PixelCNN Decoders）2015[https://arxiv.org/pdf/1606.05328.pdf]
 1. 通过平均差异最大优化训练生成神经网络（Training generative neural networks via Maximum Mean Discrepancy optimization）2015[https://arxiv.org/pdf/1505.03906.pdf]
-
 ### 2016
 1. 训练GANs的一些技巧（Improved Techniques for Training GANs）2016[https://arxiv.org/pdf/1606.03498v1.pdf]
 1. InfoGAN:基于信息最大化GANs的可解释表达学习（InfoGAN:Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets）2016[https://arxiv.org/pdf/1606.03657v1.pdf]
@@ -94,7 +92,6 @@
 1. 生成多对抗网络（Generative Multi-Adversarial Networks）2016[https://arxiv.org/pdf/1611.01673.pdf]
 1. 生成对抗网络组合（Ensembles of Generative Adversarial Network）2016[https://arxiv.org/pdf/1612.00991.pdf]
 1. 改进生成器目标的GANs(Improved generator objectives for GANs) 2016[https://arxiv.org/pdf/1612.02780.pdf]
-
 ### 2017
 1. 训练生成对抗网络的基本方法（Towards Principled Methods for Training Generative Adversarial Networks）2017[https://arxiv.org/pdf/1701.04862.pdf]
 1. 生成对抗模型的隐向量精准修复（Precise Recovery of Latent Vectors from Generative Adversarial Networks）2017[https://openreview.NET/pdf?id=HJC88BzFl]

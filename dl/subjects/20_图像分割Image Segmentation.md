@@ -1,7 +1,6 @@
 图像分割 （Image Segmentation) 专知荟萃
 # 入门学习
-# 进阶论文
-综述
+# 进阶论文# 综述
 # Tutorial
 # 视频教程
 # 代码
@@ -50,8 +49,7 @@ DUC, HDC [https://arxiv.org/pdf/1702.08502.pdf]
 Segaware [https://arxiv.org/pdf/1708.04607.pdf]
 Semantic Segmentation using Adversarial Networks [https://arxiv.org/pdf/1611.08408.pdf]
 
-
-综述
+# 综述
 A Review on Deep Learning Techniques Applied to Semantic Segmentation Alberto Garcia-Garcia, Sergio Orts-Escolano, Sergiu Oprea, Victor Villena-Martinez, Jose Garcia-Rodriguez 2017[https://arxiv.org/abs/1704.06857]
 Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art[https://arxiv.org/abs/1704.05519]
 基于内容的图像分割方法综述 姜 枫 顾 庆 郝慧珍 李 娜 郭延文 陈道蓄 2017[http://www.jos.org.cn/ch/reader/create_pdf.aspx?file_no=5136&journal_id=jos]

@@ -7,8 +7,7 @@ Papers for NLP
 Papers for opinion mining
 Papers for retrieval
 Papers for information extraction
-Tutorials
-综述
+Tutorials# 综述
 # 视频教程
 # 代码
 # 领域专家
@@ -77,8 +76,7 @@ LDA漫游指南 完全明白主题模型的必备之路：一份从数学基础�
 MIT自然语言处理第三讲：概率语言模型 很系统的英文教程，这里给出了第一部分，后边几部分在52nlp也有翻译，可以对照去看看。 作者：Regina Barzilay（MIT,EECS Department, November 15, 2004) /52nlp上的翻译版本 http://people.csail.mit.edu/regina/6881/http://www.52nlp.cn/mit-nlp-third-lesson-probabilistic-language-modeling-first-part
 斯坦福大学深度学习与自然语言处理第二讲：词向量 这里给出了整个深度学习与自然语言处理的连接。很适合想要做主题模型与深度学习相结合的人看。 作者：Richard Socher 斯坦福大学青年才俊 http://cs224d.stanford.edu/
 topic_modeling_tutorial 除了基本的概念还包括在python上实现的流程。指导编程实现。 作者：piskvorky https://github.com/piskvorky/topic_modeling_tutorial
-
-综述
+# 综述
 Probabilistic Topic Models: Origins and Challenges 权威综述，介绍了很多基本的主题模型，还包括这些模型之间渐进的关系 作者：David M. Bleihttp://www.cs.columbia.edu/~blei/talks/Blei_Topic_Modeling_Workshop_2013.pdf
 Probabilistic Topic Models 作者：David M. Bleihttp://www.cs.columbia.edu/~blei/talks/Blei_MLSS_2012.pdf
 通俗理解LDA主题模型 相对简单一些的中文综述，可以帮助读者迅速理解各种基本概念。 作者：v_JULY_v http://blog.csdn.net/v_july_v/article/details/41209515

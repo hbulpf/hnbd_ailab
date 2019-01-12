@@ -1,13 +1,7 @@
 图像识别 Image Recognition 专知荟萃
 # 入门学习
 # 进阶文章
-Imagenet result
-2013
-2014
-2015
-2016
-2017
-综述
+Imagenet result### 2013### 2014### 2015### 2016### 2017# 综述
 # Tutorial
 # 视频教程
 # Datasets
@@ -34,25 +28,21 @@ Batch Normalization [http://arxiv.org/pdf/1502.03167] Sergey Ioffe, Christian Sz
 GoogLeNet [http://arxiv.org/pdf/1409.4842] Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich, CVPR, 2015.
 VGG-Net [http://www.robots.ox.ac.uk/~vgg/research/very_deep/] [http://arxiv.org/pdf/1409.1556] Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
 AlexNet [http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012] Alex Krizhevsky, Ilya Sutskever, Geoffrey E. Hinton, ImageNet Classification with Deep Convolutional Neural Networks, NIPS, 2012.
-
-2013
+### 2013
 DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition. Jeff Donahue, Yangqing Jia, Oriol Vinyals, Judy Hoffman, Ning Zhang, Eric Tzeng, Trevor Darrell[http://arxiv.org/abs/1310.1531]
-
-2014
+### 2014
 CNN Features off-the-shelf: an Astounding Baseline for Recognition CVPR 2014[http://arxiv.org/abs/1403.6382]
 Deeply learned face representations are sparse, selective, and robust[http://arxiv.org/abs/1412.1265]
 Deep Learning Face Representation by Joint Identification-Verification
 - [https://arxiv.org/abs/1406.4773]
 Deep Learning Face Representation from Predicting 10,000 Classes. intro: CVPR 2014[http://mmlab.ie.cuhk.edu.hk/pdf/YiSun_CVPR14.pdf]
 Multiple Object Recognition with Visual Attention**[https://arxiv.org/abs/1412.7755]
-
-2015
+### 2015
 HD-CNN: Hierarchical Deep Convolutional Neural Network for Image Classification intro: ICCV 2015[https://arxiv.org/abs/1410.0736]
 Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification. ImageNet top-5 error: 4.94%[http://arxiv.org/abs/1502.01852]
 Multi-attribute Learning for Pedestrian Attribute Recognition in Surveillance Scenarios[http://ieeexplore.ieee.org/document/7486476/]
 FaceNet: A Unified Embedding for Face Recognition and Clustering[http://arxiv.org/abs/1503.03832]
-
-2016
+### 2016
 Humans and deep networks largely agree on which kinds of variation make object recognition harder**[http://arxiv.org/abs/1604.06486]
 FusionNet: 3D Object Classification Using Multiple Data Representations[https://arxiv.org/abs/1607.05695]
 Deep FisherNet for Object Classification**[http://arxiv.org/abs/1608.00182]
@@ -62,8 +52,7 @@ The More You Know: Using Knowledge Graphs for Image Classification**[https://arx
 MaxMin Convolutional Neural Networks for Image Classification**[http://webia.lip6.fr/~thomen/papers/Blot_ICIP_2016.pdf]
 Cost-Effective Active Learning for Deep Image Classification. TCSVT 2016.[https://arxiv.org/abs/1701.03551]
 DeepFood: Deep Learning-Based Food Image Recognition for Computer-Aided Dietary Assessment[http://arxiv.org/abs/1606.05675]
-
-2017
+### 2017
 Deep Collaborative Learning for Visual Recognition[https://www.arxiv.org/abs/1703.01229]
 Bilinear CNN Models for Fine-grained Visual Recognition[http://vis-www.cs.umass.edu/bcnn/]
 Multiple Instance Learning Convolutional Neural Networks for Object Recognition**[https://arxiv.org/abs/1610.03155]
@@ -72,8 +61,7 @@ Why Do Deep Neural Networks Still Not Recognize These Images?: A Qualitative Ana
 Deep Mixture of Diverse Experts for Large-Scale Visual Recognition[https://arxiv.org/abs/1706.07901]
 Sunrise or Sunset: Selective Comparison Learning for Subtle Attribute Recognition[https://arxiv.org/abs/1707.06335]
 Convolutional Low-Resolution Fine-Grained Classification[https://arxiv.org/abs/1703.05393]
-
-综述
+# 综述
 A Review of Image Recognition with Deep Convolutional Neural Network[https://link.springer.com/chapter/10.1007/978-3-319-63309-1_7]
 Review on Image Recognition[http://pnrsolution.org/Datacenter/Vol3/Issue2/186.pdf]
 深度学习在图像识别中的研究进展与展望[https://piazza-resources.s3.amazonaws.com/i48o74a0lqu0/i4fcg2o44k63n6/deep_recognition.pdf?AWSAccessKeyId=AKIAIEDNRLJ4AZKBW6HA&Expires=1509460321&Signature=DxZ8LrEEStKQrKESDufA7i3qIGA%3D]
